@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge1Selenium", "Challenge1Selenium\Challenge1Selenium.csproj", "{26CC3251-7A74-417E-8FD1-5C2E5A681937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B92DD049-F727-4791-94FF-092E5E029D7D}"
+	ProjectSection(SolutionItems) = preProject
+		Challenge1Selenium\README.md = Challenge1Selenium\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CC3251-7A74-417E-8FD1-5C2E5A681937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CC3251-7A74-417E-8FD1-5C2E5A681937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CC3251-7A74-417E-8FD1-5C2E5A681937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CC3251-7A74-417E-8FD1-5C2E5A681937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A074C132-B80B-4D22-82A5-119154A645D3}
+	EndGlobalSection
+EndGlobal
